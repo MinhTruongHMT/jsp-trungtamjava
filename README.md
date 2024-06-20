@@ -1,0 +1,10 @@
+
+# JSP SERVLET
+
+
+
+
+## NOTIONS
+
+- [JSP NOTIONS](https://www.notion.so/28822ba7bc5247349d31bed0520b994b?v=d8f23cccb5964c6ca924372589792282&pvs=4)
+
